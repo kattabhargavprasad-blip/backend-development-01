@@ -55,7 +55,6 @@ The objective of this lab is to:
 backend-development-labs/
 └── lab-01/
     ├── screenshots/
-    │   ├── server-running.png   ← Terminal showing server started
     │   ├── welcome.png          ← Browser showing GET /
     │   ├── about.png            ← Browser showing GET /about
     │   ├── time.png             ← Browser showing GET /time
