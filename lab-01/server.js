@@ -1,7 +1,7 @@
 // ============================================================
 // server.js — Lab 01: Node.js and Express Server
 // Subject  : Backend Development Fundamentals
-// Student  : [Your Name] | Reg No: [Your Reg No] | Section: [Your Section]
+// Student  : KATTA BHARGAV PRASAD | Reg No: 252U1R9065 | Section: CSE 2A
 // ============================================================
 
 // -------------------------------------------------------------
@@ -58,9 +58,9 @@ app.get("/about", (req, res) => {
   // .json() sends data in JSON format and automatically sets
   // the Content-Type header to "application/json"
   res.status(200).json({
-    name: "[Your Full Name]",       // ← Replace with your name
-    registrationNumber: "[Reg No]", // ← Replace with your reg number
-    section: "[Your Section]",      // ← Replace with your section
+    name: "KATTA BHARGAV PRASAD",
+    registrationNumber: "252U1R9065",
+    section: "CSE 2A",
     lab: "Lab 01",
     subject: "Backend Development Fundamentals",
   });

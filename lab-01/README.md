@@ -11,9 +11,9 @@
 
 | Field               | Details                  |
 |---------------------|--------------------------|
-| **Name**            | [Your Full Name]         |
-| **Registration No** | [Your Registration No]   |
-| **Section**         | [Your Section]           |
+| **Name**            | KATTA BHARGAV PRASAD     |
+| **Registration No** | 252U1R9065               |
+| **Section**         | CSE 2A                   |
 | **Lab Number**      | Lab 01                   |
 
 ---
@@ -134,9 +134,9 @@ Status:   200 OK
 #### `GET /about`
 ```json
 {
-  "name": "[Your Full Name]",
-  "registrationNumber": "[Reg No]",
-  "section": "[Your Section]",
+  "name": "KATTA BHARGAV PRASAD",
+  "registrationNumber": "252U1R9065",
+  "section": "CSE 2A",
   "lab": "Lab 01",
   "subject": "Backend Development Fundamentals"
 }
@@ -164,8 +164,6 @@ Status:   404 Not Found
 
 ## 📸 Screenshots
 
-### Server Running in Terminal
-![Server Running](./screenshots/server-running.png)
 
 ### GET / — Welcome Route
 ![Welcome Route](./screenshots/welcome.png)
